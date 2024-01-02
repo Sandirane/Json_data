@@ -28,7 +28,7 @@
     "todos": [
         {
             "id": "1",
-            "task": "todo 1 aaa",
+            "task": "todo 1",
             "completed": false
         },
         {
