@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "fullName": "test",
+            "email": "test@gmail.com",
+            "password": "test",
+            "id": 1
+        },
+        {
+            "fullName": "test",
+            "email": "test@gmail.com",
+            "password": "test",
+            "id": 2
+        },
+        {
+            "fullName": "testqfs",
+            "email": "test3@gmail.com",
+            "password": "test",
+            "id": 3
+        },
+        {
+            "fullName": "sdfgsdf",
+            "email": "eve.holt@reqres.in",
+            "password": "test",
+            "id": 4
+        }
+    ],
+    "todos": [
+        {
+            "id": "1",
+            "task": "todo 1 aaa",
+            "completed": false
+        },
+        {
+            "id": "2",
+            "task": "todo 2",
+            "completed": false
+        },
+        {
+            "task": "ertertertertgergwdfg",
+            "completed": false,
+            "id": "EthSKbb"
+        }
+    ]
+}
